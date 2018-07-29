@@ -136,18 +136,18 @@ Linux, OSX and other Unixes
 ---------------------------
 
 Bonobo test suite runs continuously on Linux, and core developpers use both OSX and Linux machines. Also, there are jobs
-running on production linux machines everyday, so the support for those platforms should be quite excellent.
+running on production Linux machines everyday, so the support for those platforms should be quite excellent.
 
-If you're using some esotheric UNIX machine, there can be surprises (although we're not aware, yet). We do not support
+If you're using some esoteric UNIX machine, there can be surprises (although we're not aware, yet). We do not support
 officially those platforms, but if you can actually fix the problems on those systems, we'll be glad to integrate
 your patches (as long as it is tested, for both existing linux environments and your strange systems).
 
 Windows
 -------
 
-Windows support is correct, as a few contributors helped us to test and fix the quirks.
+Windows is supported, as a few contributors helped us to test and fix the quirks.
 
-There may still be minor issues on the windows platform, mostly due to the fact bonobo was not developed by windows
+There may still be minor issues on the Windows platform, mostly due to the fact bonobo was not developed by Windows
 users.
 
 We're trying to look into that but energy available to provide serious support on windows is very limited.
