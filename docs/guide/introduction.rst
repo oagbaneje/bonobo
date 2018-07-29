@@ -1,7 +1,7 @@
 Introduction
 ============
 
-The first thing you need to understand before you use |bonobo|, or not, is what it does and what it does not, so you
+The first thing you need to understand before you use |bonobo|, or not, is what it is and what it is not, so you
 can understand if it could be a good fit for your use cases.
 
 How it works?
@@ -10,7 +10,7 @@ How it works?
 **Bonobo** is an **Extract Transform Load** framework aimed at coders, hackers, or any other people who are at ease with
 terminals and source code files.
 
-It is a **data streaming** solution, that treat datasets as ordered collections of independent rows, allowing to process
+It is a **data streaming** solution, that treats datasets as ordered collections of independent rows, allowing to process
 them "first in, first out" using a set of transformations organized together in a directed graph.
 
 Let's take a few examples.
